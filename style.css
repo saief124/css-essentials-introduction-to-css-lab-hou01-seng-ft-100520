@@ -5,7 +5,7 @@ body {
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
-  width:1000px;
+  width:700px;
   margin:auto;
   font-family: "Helvetica Neue";
   background: white;
@@ -16,9 +16,11 @@ div {
 #main-header {
   /* Your code here! */
   color:red;
+  font-size: 22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
   /* Your code here! */
+  font-style: italic;
 }
